@@ -1,0 +1,20 @@
+Design Rule Check Report
+------------------------
+
+Report File:        C:\Users\hyder\Documents\UT\FALL 2018\EE 445L Embedded Systems\Labs\Lab7\Lab7 UTX-2018F205\UTX-2018F205 (PCB - Design Rule Check Report).txt
+Report Written:     Wednesday, November 21, 2018
+Design Path:        C:\Users\hyder\Documents\UT\FALL 2018\EE 445L Embedded Systems\Labs\Lab7\Lab7 UTX-2018F205\UTX-2018F205.pcb
+Design Title:       
+Created:            1/28/2013 11:01:41 PM
+Last Saved:         11/10/2018 5:30:49 PM
+Editing Time:       2567 min
+Units:              mil (precision 0)
+
+
+Error Markers currently in design
+=================================
+
+No errors found
+
+
+End Of Report.

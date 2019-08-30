@@ -1,0 +1,11 @@
+.\periodicsystickints.o: PeriodicSysTickInts.c
+.\periodicsystickints.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\periodicsystickints.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\periodicsystickints.o: tm4c123gh6pm.h
+.\periodicsystickints.o: SysTickInts.h
+.\periodicsystickints.o: PLL.h
+.\periodicsystickints.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\periodicsystickints.o: Switch.h
+.\periodicsystickints.o: Timer1.h
+.\periodicsystickints.o: HandPositions.h
+.\periodicsystickints.o: ST7735.h

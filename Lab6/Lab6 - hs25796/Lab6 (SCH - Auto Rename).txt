@@ -1,0 +1,38 @@
+Auto Rename
+-----------
+
+Report File:        C:\Users\hyder\Documents\UT\FALL 2018\EE 445L Embedded Systems\Labs\Lab6\Lab6 (SCH - Auto Rename).txt
+Report Written:     Friday, October 19, 2018
+Design Path:        C:\Users\hyder\Documents\UT\FALL 2018\EE 445L Embedded Systems\Labs\Lab6\Lab6.sch
+Design Title:       
+Created:            
+Last Saved:         10/19/2018 6:36:00 PM
+Editing Time:       4010 min
+Units:              mil (precision 0)
+
+
+Old Name             New Name
+=============================
+
+HC08 HC1
+LED2 LED1
+R9 R7
+REF9 REF8
+GND18 GND11
+U3 U2
+C3  C1
+C4  C2
+C5  C3
+C6  C4
+C7  C5
+C8  C6
+C9  C7
+C10 C8
+C11 C9
+C12 C10
+C13 C11
+C14 C12
+C15 C13
+C16 C14
+
+20 renames performed.

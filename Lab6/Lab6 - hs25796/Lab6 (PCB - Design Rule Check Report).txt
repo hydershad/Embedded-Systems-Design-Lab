@@ -1,0 +1,20 @@
+Design Rule Check Report
+------------------------
+
+Report File:        C:\Users\hyder\Documents\UT\FALL 2018\EE 445L Embedded Systems\Labs\Lab6\Lab6 (PCB - Design Rule Check Report).txt
+Report Written:     Friday, October 19, 2018
+Design Path:        C:\Users\hyder\Documents\UT\FALL 2018\EE 445L Embedded Systems\Labs\Lab6\Lab6.pcb
+Design Title:       
+Created:            1/29/2013 12:01:41 AM
+Last Saved:         10/19/2018 11:18:44 PM
+Editing Time:       1348 min
+Units:              mil (precision 0)
+
+
+Error Markers currently in design
+=================================
+
+No errors found
+
+
+End Of Report.

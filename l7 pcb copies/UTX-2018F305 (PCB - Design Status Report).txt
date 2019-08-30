@@ -1,0 +1,105 @@
+Design Status Report
+--------------------
+
+Report File:        C:\Users\hyder\Documents\UT\FALL 2018\EE 445L Embedded Systems\Labs\Lab7\Lab7 UTX-2018F305\UTX-2018F305 (PCB - Design Status Report).txt
+Report Written:     Sunday, November 04, 2018
+Design Path:        C:\Users\hyder\Documents\UT\FALL 2018\EE 445L Embedded Systems\Labs\Lab7\Lab7 UTX-2018F305\UTX-2018F305.pcb
+Design Title:       
+Created:            1/28/2013 11:01:41 PM
+Last Saved:         11/2/2018 8:07:34 PM
+Editing Time:       2084 min
+Units:              mil (precision 0)
+
+
+Board Area
+==========
+
+    9954350 mil squared
+
+
+Board Extents
+=============
+
+    X:4165 mil Y:2390 mil
+Layers
+======
+
+Name               Type          Side   Net
+--------------------------------------------------
+Top Silkscreen     Silk Screen   Top
+Top Copper         Electrical    Top
+Top Solder Mask    Solder Mask   Top
+Documentation1     Documentation Top
+Top Paste Mask     Paste Mask    Top
+Bottom Silkscreen  Silk Screen   Bottom
+Bottom Copper      Electrical    Bottom
+Bottom Solder Mask Solder Mask   Bottom
+Documentation2     Documentation Bottom
+
+Components
+==========
+
+Component      Package  Components Top Bottom Pins
+------------------------------------------------------------
+0.25Wresistor  DIP               2   2      0    4
+0.125Wresistor DIL               8   8      0   16
+1N914          MISC              2   1      1    4
+2N2222         TO92              1   1      0    3
+B3F-1050       DIP               1   1      0    4
+Ceramic        C                13  13      0   26
+Header2        SIP               1   1      0    2
+Header5        SIP               4   4      0   20
+LM2937ET-3.3   TO220             1   1      0    3
+LogicAnalyzer  DIP               1   1      0   16
+ST7735         LCD               1   0      1   10
+tantalum       C                 1   1      0    2
+testpoint      BIG               4   4      0    4
+testpoint      SIP               1   1      0    1
+TM4C123GH6PM   LQFP              1   1      0   64
+XTAL           NX5032            1   1      0    2
+------------------------------------------------------------
+Total:                          43  41      2  181
+------------------------------------------------------------
+
+Total Pin Count
+===============
+
+Free Pads:                             4
+Total PinCount:                        185
+
+
+Net List
+========
+
+Net Class Nets  Track Length Vias Connections Connection Length
+-------------------------------------------------------------------------
+Signal    130          77959   31           0                 0
+Power     9            16608    3           0                 0
+Ground    1            12501    9           0                 0
+-------------------------------------------------------------------------
+Total:    140         107068   43           0                 0
+-------------------------------------------------------------------------
+
+Drill List
+==========
+
+Drill Diameter  Number of holes
+---------------------------------
+15                           43
+29                           55
+33                           22
+35                           16
+40                           14
+42                            3
+43                            1
+60                            4
+125                           4
+---------------------------------
+Total:                      162
+---------------------------------
+Total number of free pads 4.
+
+
+
+
+End Of Report.

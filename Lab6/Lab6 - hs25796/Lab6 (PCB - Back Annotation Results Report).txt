@@ -1,0 +1,18 @@
+Back Annotation Results Report
+------------------------------
+
+Report File:        C:\Users\hyder\Documents\UT\FALL 2018\EE 445L Embedded Systems\Labs\Lab6\Lab6 (PCB - Back Annotation Results Report).txt
+Report Written:     Friday, October 19, 2018
+Design Path:        C:\Users\hyder\Documents\UT\FALL 2018\EE 445L Embedded Systems\Labs\Lab6\Lab6.pcb
+Design Title:       
+Created:            1/29/2013 12:01:41 AM
+Last Saved:         10/19/2018 8:19:04 PM
+Editing Time:       1247 min
+Units:              mil (precision 0)
+
+Back Annotate renames from PCB "C:\Users\hyder\Documents\UT\FALL 2018\EE 445L Embedded Systems\Labs\Lab6\Lab6.pcb" to Schematic "C:\Users\hyder\Documents\UT\FALL 2018\EE 445L Embedded Systems\Labs\Lab6\Lab6.sch".
+
+Renamed Component from "Battery" to "Bat".
+
+
+End Of Report.

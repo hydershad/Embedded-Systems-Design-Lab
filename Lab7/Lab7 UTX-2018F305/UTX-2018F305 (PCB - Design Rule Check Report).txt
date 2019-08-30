@@ -1,0 +1,79 @@
+Design Rule Check Report
+------------------------
+
+Report File:        C:\Users\hyder\Documents\UT\FALL 2018\EE 445L Embedded Systems\Labs\Lab7\Lab7 UTX-2018F305\UTX-2018F305 (PCB - Design Rule Check Report).txt
+Report Written:     Thursday, November 08, 2018
+Design Path:        C:\Users\hyder\Documents\UT\FALL 2018\EE 445L Embedded Systems\Labs\Lab7\Lab7 UTX-2018F305\UTX-2018F305.pcb
+Design Title:       
+Created:            1/28/2013 11:01:41 PM
+Last Saved:         11/2/2018 8:07:34 PM
+Editing Time:       2084 min
+Units:              mil (precision 0)
+
+
+Results
+=======
+
+Track to Pad Error (T-P) between (10682 10125) and (10684 10124) on Layer "Top Copper".
+    Error between Component Pad C3.1 (Net '+3.3') and Track (Net 'GND'), Gap is 0 needs to be 7.
+Track to Pad Error (T-P) between (10145 9667) and (10155 9667) on Layer "Top Copper".
+    Error between Component Pad U1.6 (Net 'PE3') and Track (Net 'PE2'), Gap is 6 needs to be 7.
+Track to Pad Error (T-P) between (10164 9667) and (10175 9667) on Layer "Top Copper".
+    Error between Component Pad U1.7 (Net 'PE2') and Track (Net 'PE1'), Gap is 7 needs to be 7.
+Track to Pad Error (T-P) between (10211 9667) and (10200 9667) on Layer "Top Copper".
+    Error between Component Pad U1.10 (Net 'PD7') and Track (Net 'PE0'), Gap is 7 needs to be 7.
+Track to Pad Error (T-P) between (10230 9667) and (10220 9667) on Layer "Top Copper".
+    Error between Component Pad U1.11 (Net '+3.3') and Track (Net 'PD7'), Gap is 6 needs to be 7.
+Track to Pad Error (T-P) between (10309 9667) and (10300 9667) on Layer "Top Copper".
+    Error between Component Pad U1.15 and Track (Net 'PC6'), Gap is 5 needs to be 7.
+Track to Pad error (T-P) at (9977 9895) on layer "Top Copper".
+    Error between Component Pad U1.58 (Net 'PB4') and Track (Net 'PE4'), Gap is 0 needs to be 7.
+Track to Track Error (T-T) between (9953 9895) and (9953 9895) on Layer "Top Copper".
+    Error between Track (Net 'PB4') and Track (Net 'PE4'), Gap is 0 needs to be 7.
+Track to Track Error (T-T) between (10120 9555) and (10110 9565) on Layer "Top Copper".
+    Error between Track (Net 'PE1') and Track (Net 'PE2'), Gap is 6 needs to be 7.
+
+Number of errors found : 9
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    No
+
+
+Manufacturing
+
+==============
+
+Min Drill Hole Size  Yes
+Min Track Width      Yes
+Min Annular Ring     Yes
+Copper Text In Board Yes
+Mirrored Text        Yes
+Routing Areas        Yes
+Drill Breakout       Yes
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+
+
+
+End Of Report.

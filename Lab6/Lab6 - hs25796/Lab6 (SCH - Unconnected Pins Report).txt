@@ -1,0 +1,40 @@
+Unconnected Pins Report
+-----------------------
+
+Report File:        C:\Users\hyder\Documents\UT\FALL 2018\EE 445L Embedded Systems\Labs\Lab6\Lab6 (SCH - Unconnected Pins Report).txt
+Report Written:     Friday, October 19, 2018
+Design Path:        C:\Users\hyder\Documents\UT\FALL 2018\EE 445L Embedded Systems\Labs\Lab6\Lab6.sch
+Design Title:       
+Created:            
+Last Saved:         10/19/2018 6:38:07 PM
+Editing Time:       4014 min
+Units:              mil (precision 0)
+
+Component U1 Pin U1.21 (PA4)
+Component U1 Pin U1.18 (PA1)
+Component U1 Pin U1.17 (PA0)
+Component U1 Pin U1.4 (PB7)
+Component U1 Pin U1.13 (PC7)
+Component U1 Pin U1.14 (PC6)
+Component U1 Pin U1.10 (PD7)
+Component U1 Pin U1.53 (PD6)
+Component U1 Pin U1.44 (PD5)
+Component U1 Pin U1.43 (PD4)
+Component U1 Pin U1.64 (PD3)
+Component U1 Pin U1.63 (PD2)
+Component U1 Pin U1.62 (PD1)
+Component U1 Pin U1.61 (PD0)
+Component U1 Pin U1.60 (PE5)
+Component U1 Pin U1.5 (PF4)
+Component U1 Pin U1.31 (PF3)
+Component U1 Pin U1.30 (PF2)
+Component U1 Pin U1.29 (PF1)
+Component U1 Pin U1.28 (PF0)
+Component U1 Pin U1.36 (XOSC1)
+Component U1 Pin U1.33 (HIB*)
+Component J5 Pin J5.5 (CARD_CS)
+Component J5 Pin J5.9 (MISO)
+
+Unconnected pins found : 24
+
+End Of Report.

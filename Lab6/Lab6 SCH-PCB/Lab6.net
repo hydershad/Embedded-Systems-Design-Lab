@@ -1,0 +1,264 @@
+Reset "B3F-1050" "B3F-1050"
+GND "testpoint" "testpoint"
+Bat "testpoint" "testpoint_Big"
+HC08BLE "Header5" "5pinHeader"
+hcRX "testpoint" "testpoint_Big"
+hcTX "testpoint" "testpoint_Big"
+C1 "Ceramic" "0.1inCeramic"
+C2 "Ceramic" "0.1inCeramic"
+C3 "Ceramic" "0.1inCeramic"
+C4 "Ceramic" "0.1inCeramic"
+C5 "Ceramic" "0.1inCeramic"
+C6 "Ceramic" "0.1inCeramic"
+C7 "Ceramic" "0.1inCeramic"
+C8 "Ceramic" "0.1inCeramic"
+C9 "Ceramic" "0.1inCeramic"
+C10 "tantalum" "0.2incap"
+C11 "Ceramic" "0.1inCeramic"
+C12 "Ceramic" "0.1inCeramic"
+C13 "Ceramic" "0.1inCeramic"
+C14 "Ceramic" "0.1inCeramic"
+D1 "1N914" "Diode250mil"
+J1 "Header5" "5pinHeader"
+J2 "Header2" "2pinHeader"
+J3 "LogicAnalyzer" "DIP-16"
+J5 "ST7735" "ST7735"
+Q1 "2N2222" "TO-92"
+R1 "0.125Wresistor" "0.125watt"
+R2 "0.125Wresistor" "0.125watt"
+R3 "0.25Wresistor" "0.25watt"
+R4 "0.25Wresistor" "0.25watt"
+R5 "0.25Wresistor" "0.25watt"
+R6 "0.25Wresistor" "0.25watt"
+R7 "0.25Wresistor" "0.25watt"
+SW1 "B3F-1050" "B3F-1050"
+SW2 "B3F-1050" "B3F-1050"
+SW3 "B3F-1050" "B3F-1050"
+SW4 "B3F-1050" "B3F-1050"
+U1 "TM4C123GH6PM" "LQFP-64"
+U2 "LM2937ET-3.3" "TO220-2"
+Y1 "XTAL" "NX5032GAcrystal"
+
+Net "+3.3"
+R2.2
+R1.2
+C5.1
+U1.2
+U1.11
+U1.26
+U1.42
+U1.54
+U1.37
+C1.1
+C2.1
+C6.1
+C3.1
+SW1.3
+SW2.3
+SW4.3
+J5.10
+U2.3
+C14.1
+SW1.4
+SW2.4
+SW3.4
+SW4.4
+C4.1
+SW3.3
+J5.2
+D1.2
+
+Net "+5V"
+J2.1
+Bat.1
+U2.1
+C13.1
+HC08BLE.5
+
+Net "GND"
+U1.3
+U1.12
+U1.27
+U1.39
+U1.55
+U1.35
+U1.34
+C11.2
+C12.2
+Reset.1
+Reset.2
+J2.2
+GND.1
+C2.2
+C1.2
+C4.2
+C6.2
+C9.2
+C10.2
+J3.1
+J3.2
+J3.3
+J3.4
+J3.5
+J3.6
+J3.7
+J3.8
+C3.2
+C5.2
+C7.2
+C8.2
+J1.1
+R3.1
+R5.1
+R7.1
+Q1.1
+J5.1
+U2.2
+C13.2
+C14.2
+R4.1
+HC08BLE.4
+
+Net "LDO"
+C9.1
+U1.25
+U1.56
+C10.1
+C7.1
+C8.1
+
+Net "OSC0"
+Y1.2
+C11.1
+U1.40
+
+Net "OSC1"
+Y1.1
+C12.1
+U1.41
+
+Net "PA3"
+U1.20
+J5.6
+
+Net "PA4"
+U1.19
+J5.8
+
+Net "PA5"
+U1.22
+J5.7
+
+Net "PA6"
+U1.23
+J5.4
+
+Net "PA7"
+U1.24
+J5.3
+
+Net "PB0"
+J3.16
+U1.45
+
+Net "PB1"
+J3.15
+U1.46
+
+Net "PB2"
+J3.14
+U1.47
+
+Net "PB3"
+J3.13
+U1.48
+
+Net "PB4"
+J3.12
+U1.58
+
+Net "PB5"
+J3.11
+U1.57
+
+Net "PB6"
+J3.10
+U1.1
+
+Net "PC0"
+J1.2
+U1.52
+
+Net "PC1"
+J1.3
+U1.51
+
+Net "PC2"
+J1.4
+U1.50
+
+Net "PC3"
+J1.5
+U1.49
+
+Net "PC6"
+U1.14
+HC08BLE.3
+hcTX.1
+
+Net "PC7"
+U1.13
+HC08BLE.2
+hcRX.1
+
+Net "PE0"
+U1.9
+SW1.1
+SW1.2
+R3.2
+
+Net "PE1"
+SW2.1
+SW2.2
+U1.8
+R4.2
+
+Net "PE2"
+R5.2
+SW3.1
+U1.7
+SW3.2
+
+Net "PE3"
+U1.6
+R7.2
+SW4.1
+SW4.2
+
+Net "PE4"
+U1.59
+R6.1
+J3.9
+
+Net "PE5"
+U1.60
+HC08BLE.1
+
+Net "RST"
+R2.1
+Reset.3
+Reset.4
+U1.38
+
+Net "T1_Base"
+R6.2
+Q1.2
+
+Net "T1_Collector"
+Q1.3
+D1.1
+
+Net "Wake"
+R1.1
+U1.32
+

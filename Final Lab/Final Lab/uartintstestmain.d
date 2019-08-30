@@ -1,0 +1,15 @@
+.\uartintstestmain.o: UARTIntsTestMain.c
+.\uartintstestmain.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\uartintstestmain.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\uartintstestmain.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\uartintstestmain.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\uartintstestmain.o: PLL.h
+.\uartintstestmain.o: SysTickInts.h
+.\uartintstestmain.o: tm4c123gh6pm.h
+.\uartintstestmain.o: motor.h
+.\uartintstestmain.o: ST7735.h
+.\uartintstestmain.o: ADCT0ATrigger.h
+.\uartintstestmain.o: UART5.h
+.\uartintstestmain.o: step.h
+.\uartintstestmain.o: PWM.h
+.\uartintstestmain.o: ports.h

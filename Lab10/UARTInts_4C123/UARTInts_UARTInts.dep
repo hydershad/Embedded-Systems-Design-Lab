@@ -1,0 +1,54 @@
+Dependencies for Project 'UARTInts', Target 'UARTInts': (DO NOT MODIFY !)
+F (.\startup.s)(0x5B8EBE7B)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\PLL.c)(0x5BE0DA99)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\pll.o --omf_browse .\pll.crf --depend .\pll.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86E14)
+I (PLL.h)(0x5B8EBE7A)
+I (tm4c123gh6pm.h)(0x5B99C8C8)
+F (.\UARTIntsTestMain.c)(0x5C021ADF)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\uartintstestmain.o --omf_browse .\uartintstestmain.crf --depend .\uartintstestmain.d)
+I (tm4c123gh6pm.h)(0x5B99C8C8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86E14)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C86E14)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C86E14)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C86E14)
+I (PLL.h)(0x5B8EBE7A)
+I (PWM.h)(0x5C020F18)
+I (tach.h)(0x5C020F00)
+I (ST7735.h)(0x5B9A8B21)
+I (SysTickInts.h)(0x5C020F2D)
+I (UART.h)(0x5BB77BE9)
+I (esp8266.h)(0x5BB77BE6)
+I (Timer2.h)(0x5BB77BE8)
+I (Timer3.h)(0x5BB77BE9)
+F (.\SysTickInts.c)(0x5C021AB4)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\systickints.o --omf_browse .\systickints.crf --depend .\systickints.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86E14)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C86E14)
+I (tm4c123gh6pm.h)(0x5B99C8C8)
+I (SysTickInts.h)(0x5C020F2D)
+F (.\SysTickInts.h)(0x5C020F2D)()
+F (.\ST7735.c)(0x5BB2E2C5)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\st7735.o --omf_browse .\st7735.crf --depend .\st7735.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C86E14)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86E14)
+I (ST7735.h)(0x5B9A8B21)
+I (tm4c123gh6pm.h)(0x5B99C8C8)
+F (.\tach.c)(0x5C021AB0)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\tach.o --omf_browse .\tach.crf --depend .\tach.d)
+I (tm4c123gh6pm.h)(0x5B99C8C8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86E14)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C86E14)
+I (PWM.h)(0x5C020F18)
+I (ST7735.h)(0x5B9A8B21)
+F (.\Timer2.c)(0x5C020EE0)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\timer2.o --omf_browse .\timer2.crf --depend .\timer2.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86E14)
+I (tm4c123gh6pm.h)(0x5B99C8C8)
+F (.\Timer3.c)(0x5C020F0E)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\timer3.o --omf_browse .\timer3.crf --depend .\timer3.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86E14)
+I (tm4c123gh6pm.h)(0x5B99C8C8)
+F (.\PWM.c)(0x5C020EEA)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\pwm.o --omf_browse .\pwm.crf --depend .\pwm.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86E14)
+I (tm4c123gh6pm.h)(0x5B99C8C8)
+F (.\esp8266.c)(0x5C020EF7)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\esp8266.o --omf_browse .\esp8266.crf --depend .\esp8266.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86E14)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C86E14)
+I (tm4c123gh6pm.h)(0x5B99C8C8)
+I (UART.h)(0x5BB77BE9)
+I (ST7735.h)(0x5B9A8B21)
+I (esp8266.h)(0x5BB77BE6)

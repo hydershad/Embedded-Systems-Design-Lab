@@ -1,0 +1,18 @@
+Design Consistency Status Report
+--------------------------------
+
+Report File:        C:\Users\hyder\Documents\UT\FALL 2018\EE 445L Embedded Systems\Labs\Lab6\Lab6 (PCB - Design Consistency Status Report).txt
+Report Written:     Friday, October 19, 2018
+Design Path:        C:\Users\hyder\Documents\UT\FALL 2018\EE 445L Embedded Systems\Labs\Lab6\Lab6.pcb
+Design Title:       
+Created:            1/29/2013 12:01:41 AM
+Last Saved:         10/19/2018 11:44:35 PM
+Editing Time:       1374 min
+Units:              mil (precision 0)
+
+
+Checking integrity of Schematic "C:\Users\hyder\Documents\UT\FALL 2018\EE 445L Embedded Systems\Labs\Lab6\Lab6.sch" with PCB "C:\Users\hyder\Documents\UT\FALL 2018\EE 445L Embedded Systems\Labs\Lab6\Lab6.pcb"
+================================================================================================================================================================================================================
+
+
+End Of Report.

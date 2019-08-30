@@ -1,0 +1,48 @@
+Dependencies for Project 'GPIO', Target 'GPIO': (DO NOT MODIFY !)
+F (.\startup.s)(0x5BCF6B1F)(--cpu Cortex-M4 -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\GPIO.c)(0x5BCF6B21)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\gpio.o --omf_browse .\gpio.crf --depend .\gpio.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C87C24)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C87C24)
+I (tm4c123gh6pm.h)(0x5B99D6D8)
+I (SysTick.h)(0x5BCF6B21)
+F (.\SysTick.c)(0x5BCF6B21)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\systick.o --omf_browse .\systick.crf --depend .\systick.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C87C24)
+I (tm4c123gh6pm.h)(0x5B99D6D8)
+I (Wave.h)(0x5BCF6B21)
+I (DAC.h)(0x5BCF6B20)
+F (.\DAC.c)(0x5BCF6B21)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\dac.o --omf_browse .\dac.crf --depend .\dac.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C87C24)
+I (tm4c123gh6pm.h)(0x5B99D6D8)
+F (.\Lab5main.c)(0x5BCF6B21)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\lab5main.o --omf_browse .\lab5main.crf --depend .\lab5main.d)
+I (tm4c123gh6pm.h)(0x5B99D6D8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C87C24)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x51C87C24)
+I (PLL.h)(0x5B8ECABB)
+I (Timer0A.h)(0x5BCF5E42)
+I (Timer1A.h)(0x5BC0DFB7)
+I (DAC.h)(0x5BCF6B20)
+I (Switch.h)(0x5BCF6B21)
+I (Wave.h)(0x5BCF6B21)
+I (SysTick.h)(0x5BCF6B21)
+F (.\PLL.c)(0x5BA7DFB9)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\pll.o --omf_browse .\pll.crf --depend .\pll.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C87C24)
+I (PLL.h)(0x5B8ECABB)
+I (tm4c123gh6pm.h)(0x5B99D6D8)
+F (.\Timer0A.c)(0x5BCF6B21)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\timer0a.o --omf_browse .\timer0a.crf --depend .\timer0a.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C87C24)
+I (tm4c123gh6pm.h)(0x5B99D6D8)
+F (.\Timer1A.c)(0x5BC56F0A)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\timer1a.o --omf_browse .\timer1a.crf --depend .\timer1a.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C87C24)
+I (tm4c123gh6pm.h)(0x5B99D6D8)
+I (switch.h)(0x5BCF6B21)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x51C87C24)
+F (.\Wave.c)(0x5BCF6B21)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\wave.o --omf_browse .\wave.crf --depend .\wave.d)
+I (DAC.h)(0x5BCF6B20)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C87C24)
+I (Wave.h)(0x5BCF6B21)
+F (.\switch.c)(0x5BCF6B21)(-c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\switch.o --omf_browse .\switch.crf --depend .\switch.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C87C24)
+I (tm4c123gh6pm.h)(0x5B99D6D8)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x51C87C24)
+I (Timer1A.h)(0x5BC0DFB7)
+I (Wave.h)(0x5BCF6B21)

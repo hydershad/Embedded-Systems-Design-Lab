@@ -1,0 +1,29 @@
+Component                     Package   Value               Manuf               Manuf Part No       Distrib             Distrib Part No     Ref Name         Qty
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+0.25Wresistor                 DIP                                                                                                           R3 R5 R6           5
+                                                                                                                                            R7 R4               
+0.125Wresistor                DIL                                                                                                           R2 R1              2
+1N914                         MISC                                                                                                          D1                 1
+2N2222                        TO92                                                                                                          Q1                 1
+B3F-1050                      DIP                                                                                                           Reset              1
+                              DIP                           NO switch                                                                       SW1 SW2            4
+                                                                                                                                            SW3 SW4             
+Ceramic                       C                                                                                                             C11 C12 C2        13
+                                                                                                                                            C1 C4 C6            
+                                                                                                                                            C7 C3 C5            
+                                                                                                                                            C8 C9 C13           
+                                                                                                                                            C14                 
+Header2                       SIP                                                                                                           J2                 1
+Header5                       SIP                                                                                                           J1 HC08BLE         2
+LM2937ET-3.3                  TO220                                                                                                         U2                 1
+LogicAnalyzer                 DIP                                                                                                           J3                 1
+ST7735                        LCD                                                                                                           J5                 1
+tantalum                      C                                                                                                             C10                1
+testpoint                     SIP                                                                                                           GND                1
+testpoint                     BIG                                                                                                           Bat hcRX           3
+                                                                                                                                            hcTX                
+TM4C123GH6PM                  LQFP                                                                                                          U1                 1
+XTAL                          NX5032                                                                                                        Y1                 1
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                                                              40
+PCB Artist Bill of Materials is provided for reference only and must be verified by the user.

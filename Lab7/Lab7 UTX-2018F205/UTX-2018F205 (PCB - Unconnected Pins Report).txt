@@ -1,0 +1,30 @@
+Unconnected Pins Report
+-----------------------
+
+Report File:        C:\Users\hyder\Documents\UT\FALL 2018\EE 445L Embedded Systems\Labs\Lab7\Lab7 UTX-2018F205\UTX-2018F205 (PCB - Unconnected Pins Report).txt
+Report Written:     Wednesday, November 21, 2018
+Design Path:        C:\Users\hyder\Documents\UT\FALL 2018\EE 445L Embedded Systems\Labs\Lab7\Lab7 UTX-2018F205\UTX-2018F205.pcb
+Design Title:       
+Created:            1/28/2013 11:01:41 PM
+Last Saved:         11/10/2018 5:30:49 PM
+Editing Time:       2567 min
+Units:              mil (precision 0)
+
+Component U1 Pin U1.4 (PB7)
+Component U1 Pin U1.5 (PF4)
+Component U1 Pin U1.15 (PC5)
+Component U1 Pin U1.16 (PC4)
+Component U1 Pin U1.17 (PA0)
+Component U1 Pin U1.18 (PA1)
+Component U1 Pin U1.28 (PF0)
+Component U1 Pin U1.29 (PF1)
+Component U1 Pin U1.30 (PF2)
+Component U1 Pin U1.31 (PF3)
+Component U1 Pin U1.33 (HIB*)
+Component U1 Pin U1.36 (XOSC1)
+Component U1 Pin U1.44 (PD5)
+Component U1 Pin U1.53 (PD6)
+
+Unconnected pins found : 14
+
+End Of Report.

@@ -1,0 +1,66 @@
+Dependencies for Project 'Blynk', Target 'Blynk': (DO NOT MODIFY !)
+F (.\startup.s)(0x5BB77BE8)(--cpu Cortex-M4 -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\PLL.c)(0x5BB77C4D)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_LM4F120H5QR -DTM4C123GH6PM-o .\pll.o --omf_browse .\pll.crf --depend .\pll.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86E14)
+I (PLL.h)(0x5BB77BE6)
+I (tm4c123gh6pm.h)(0x5B99C8C8)
+F (.\UART.c)(0x5BB77C25)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_LM4F120H5QR -DTM4C123GH6PM-o .\uart.o --omf_browse .\uart.crf --depend .\uart.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86E14)
+I (tm4c123gh6pm.h)(0x5B99C8C8)
+I (UART.h)(0x5BB77BE9)
+F (.\Blynk.c)(0x5BFF3474)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_LM4F120H5QR -DTM4C123GH6PM-o .\blynk.o --omf_browse .\blynk.crf --depend .\blynk.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86E14)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C86E14)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C86E14)
+I (tm4c123gh6pm.h)(0x5B99C8C8)
+I (ST7735.h)(0x5BB77BE8)
+I (PLL.h)(0x5BB77BE6)
+I (Timer2.h)(0x5BB77BE8)
+I (Timer3.h)(0x5BB77BE9)
+I (UART.h)(0x5BB77BE9)
+I (PortF.h)(0x5BB77BE7)
+I (esp8266.h)(0x5BB77BE6)
+I (SysTickInts.h)(0x5BAEE127)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C86E14)
+I (Switch.h)(0x5BB79347)
+I (Timer1.h)(0x5BAEE0D9)
+I (HandPositions.h)(0x5BAED673)
+I (PeriodicSysTickInts.h)(0x5BB8093E)
+F (.\ST7735.c)(0x5BB77C25)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_LM4F120H5QR -DTM4C123GH6PM-o .\st7735.o --omf_browse .\st7735.crf --depend .\st7735.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C86E14)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86E14)
+I (ST7735.h)(0x5BB77BE8)
+I (tm4c123gh6pm.h)(0x5B99C8C8)
+F (.\Timer2.c)(0x5BB77C25)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_LM4F120H5QR -DTM4C123GH6PM-o .\timer2.o --omf_browse .\timer2.crf --depend .\timer2.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86E14)
+I (tm4c123gh6pm.h)(0x5B99C8C8)
+F (.\Timer3.c)(0x5BB77C25)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_LM4F120H5QR -DTM4C123GH6PM-o .\timer3.o --omf_browse .\timer3.crf --depend .\timer3.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86E14)
+I (tm4c123gh6pm.h)(0x5B99C8C8)
+F (.\esp8266.c)(0x5C00B792)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_LM4F120H5QR -DTM4C123GH6PM-o .\esp8266.o --omf_browse .\esp8266.crf --depend .\esp8266.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86E14)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C86E14)
+I (tm4c123gh6pm.h)(0x5B99C8C8)
+I (UART.h)(0x5BB77BE9)
+I (ST7735.h)(0x5BB77BE8)
+I (esp8266.h)(0x5BB77BE6)
+F (.\PortF.c)(0x5BB77C25)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_LM4F120H5QR -DTM4C123GH6PM-o .\portf.o --omf_browse .\portf.crf --depend .\portf.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86E14)
+I (tm4c123gh6pm.h)(0x5B99C8C8)
+I (PortF.h)(0x5BB77BE7)
+F (.\Sound.c)(0x5BAE72FE)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_LM4F120H5QR -DTM4C123GH6PM-o .\sound.o --omf_browse .\sound.crf --depend .\sound.d)
+F (.\Switch.c)(0x5BB79328)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_LM4F120H5QR -DTM4C123GH6PM-o .\switch.o --omf_browse .\switch.crf --depend .\switch.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86E14)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C86E14)
+I (tm4c123gh6pm.h)(0x5B99C8C8)
+I (Switch.h)(0x5BB79347)
+F (.\SysTickInts.c)(0x5BAEE104)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_LM4F120H5QR -DTM4C123GH6PM-o .\systickints.o --omf_browse .\systickints.crf --depend .\systickints.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86E14)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C86E14)
+I (tm4c123gh6pm.h)(0x5B99C8C8)
+I (SysTickInts.h)(0x5BAEE127)
+F (.\Timer1.c)(0x5BB7BA4D)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_LM4F120H5QR -DTM4C123GH6PM-o .\timer1.o --omf_browse .\timer1.crf --depend .\timer1.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86E14)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C86E14)
+I (tm4c123gh6pm.h)(0x5B99C8C8)
+I (Switch.h)(0x5BB79347)

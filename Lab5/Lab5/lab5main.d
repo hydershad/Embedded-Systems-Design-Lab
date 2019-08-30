@@ -1,0 +1,11 @@
+.\lab5main.o: Lab5main.c
+.\lab5main.o: tm4c123gh6pm.h
+.\lab5main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\lab5main.o: PLL.h
+.\lab5main.o: Timer0A.h
+.\lab5main.o: Timer1A.h
+.\lab5main.o: DAC.h
+.\lab5main.o: switch.h
+.\lab5main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\lab5main.o: Wave.h
+.\lab5main.o: SysTick.h
